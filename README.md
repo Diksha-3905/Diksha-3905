@@ -1,68 +1,47 @@
-\documentclass[a4paper,10pt]{article}
-\usepackage{geometry}
-\geometry{margin=0.8in}
-\usepackage{enumitem}
-\usepackage{titlesec}
-\usepackage{xcolor}
-\usepackage[hidelinks]{hyperref}
+<h1 align="center">Hi 👋, I'm Diksha Wagh</h1>
+<h3 align="center">AI & Data Science Student | Computer Vision Enthusiast | Open Source Contributor</h3>
 
-\titleformat{\section}{\large\bfseries}{\thesection}{1em}{}
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-\begin{document}
+- 🎓 I’m currently pursuing B.Tech in Artificial Intelligence and Data Science
+- 🔭 I’m working on **Computer Vision projects** like Driver Drowsiness Detection, Smart Parking, etc.
+- 🌱 I’m learning **Deep Learning**, **YOLOv8**, and **Docker**
+- 💬 Ask me about Python, OpenCV, Machine Learning, or GitHub
+- 📫 Reach me at **[waghdiksha935@gmail.com]**
+- 🌐 Linkedin: [https://www.linkedin.com/in/diksha-wagh-5b52a62ab/]
 
-\begin{center}
-    {\Huge \textbf{Diksha Wagh}} \\
-    \vspace{2mm}
-    Artificial Intelligence \& Data Science | Software \& IoT Developer \\
-    \vspace{1mm}
-    \small Phone: 9561563905 \quad | \quad Email: waghdiksha935@gmail.com \\
-    \small \href{https://linkedin.com/in/diksha-wagh-5b52a62ab}{LinkedIn} \quad | \quad \href{https://github.com/Diksha-3905}{GitHub} \\
-\end{center}
+---
 
-\vspace{-2mm}
-\section*{Summary}
-AI \& IoT Developer skilled in embedded systems, software development, and QA testing. Experienced in IoT hardware integration, computer vision, and automation with strong debugging and simulation skills.
+### 🧰 Tech Stack
 
-\section*{Technical Skills}
-\begin{itemize}[leftmargin=1.5em]
-    \item \textbf{Languages:} Python, Embedded C, C++, JavaScript, SQL
-    \item \textbf{IoT \& Embedded:} Arduino, ESP32, TM1637, RGB LEDs, IoT sensors \& modules
-    \item \textbf{Frameworks \& Tools:} React, Node.js, Firebase, YOLOv8, OpenCV, Git
-    \item \textbf{Testing \& QA:} Test case design, Functional/Regression Testing, Defect Tracking
-    \item \textbf{Other:} Software modeling \& simulation, Debugging, Frontend \& Backend Development
-\end{itemize}
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white?style=for-the-badge&logo=opencv&logoColor=blue)
+![Dlib](https://img.shields.io/badge/Dlib-222222?style=for-the-badge&logo=data:image/svg+xml;base64,...&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-\section*{Projects}
-\textbf{IoT Product Counter using ML and Arduino} \\
-Developed an IoT-based system to count products crossing a vertical line using computer vision. \\
-\textit{Hardware: Arduino, TM1637 display, camera module | Software: YOLOv8, Python, OpenCV} \\
-Outcome: Real-time counting with display integration for production line automation. \\[2mm]
+---
 
-\textbf{Mood Adaptation Lighting Control (IoT Project)} \\
-Smart IoT system detecting user mood via facial expression and adjusting room lighting. \\
-\textit{Hardware: Arduino/ESP32, RGB LED lights, camera module | Software: Python, OpenCV, CNN} \\
-Outcome: Automated ambient lighting providing personalized atmosphere. \\[2mm]
+### 📈 GitHub Stats
 
-\textbf{Metal Crack Detection using Instance Segmentation} \\
-Developed a CV system to detect and segment cracks on metal surfaces using instance segmentation. \\
-\textit{Tech: Python, OpenCV, YOLOv8/Mask R-CNN} \\
-Outcome: Accurate defect localization for QA and predictive maintenance. \\[2mm]
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Diksha-3905&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Diksha-3905&theme=radical" />
+</p>
 
-\textbf{eduAutoML – Open Source ML Automation Tool} \\
-Lightweight AutoML library to automate classification/regression workflows for students. \\
-\textit{Features: CLI, task-type detection, preprocessing, Gradio GUI (in-progress)} \\[2mm]
+---
 
-\textbf{Helmet Violation Detection (YOLOv8 + OpenCV)} \\
-Real-time system to detect bike riders without helmets using YOLOv8 and OpenCV.
+### 📂 Featured Projects
 
-\section*{Education}
-B.Tech in Artificial Intelligence and Data Science \\
-K.K. Wagh Institute of Engineering \hfill 2022–2026 \\
-SGPA: 9.05
+- 🔹 [Driver Drowsiness Detection](https://github.com/Diksha-3905/driver-drowsiness-detection)
+- 🔹 [Smart Parking Detection](https://github.com/Diksha-3905/parking-spot-detection-cv)
+- 🔹 [Telehealth App Report Analysis](#)
+- 🔹 [NewBee College Assistant Bot](#)
 
-\vfill
-\begin{center}
-    \textcolor{gray}{Willing to relocate: Nashik | Pune | Mumbai}
-\end{center}
+---
 
-\end{document}
+### 🌱 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
