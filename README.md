@@ -47,5 +47,5 @@
 ---
 
 ## 📬 Connect With Me
-- [LinkedIn](https://linkedin.com/in/your-link)  
-- 📧 **your-email@example.com**
+- [LinkedIn](https://www.linkedin.com/in/diksha-wagh-5b52a62ab/)  
+- 📧 **waghdiksha935@gmail.com**
