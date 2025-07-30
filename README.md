@@ -1,62 +1,51 @@
-<!-- 🌸 Animated Gradient Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=👩‍💻%20Diksha%20Wagh&fontSize=50&fontColor=fff&color=gradient&customColorList=3,12,19,22,30" width="100%"/>
+# Hi, I'm Diksha Samrat Wagh 👋
+🎓 Final Year Artificial Intelligence & Data Science Student (B.Tech, 2026)  
+💻 AI & ML Enthusiast | Cloud Security Research | Open Source Contributor  
 
-<h3 align="center">✨ AI & Data Science Student | Computer Vision Enthusiast | Open Source Contributor ✨</h3>
+---
 
-<!-- Animated Girl Coding -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/main/assets/coding-girl.gif" width="300" alt="Girl Coding Animation"/>
+## 🌟 About Me
+- 📌 Building projects at the intersection of **AI, Data Science, and Cloud Systems**.  
+- 🏆 **Reliance Scholar | Smart India Hackathon Finalist | Google Gen AI Program**  
+- 💡 Interested in **scalable AI solutions, cloud-native applications, and AutoML research**.  
+- 🔍 Experienced in **Python, C++, JavaScript, FastAPI, Docker, Machine Learning**.  
+
+---
+
+## 🚀 Featured Projects
+- **AI Code Reviewer Bot**  
+  _AI-powered code review system with Azure Cognitive Services & GitHub PR auto-analysis._  
+- **Exoplanet Habitability Model**  
+  _Deep learning model comparing JWST spectrogram data to estimate planetary habitability._  
+- **eduAutoML**  
+  _Beginner-friendly AutoML library with CLI & GUI designed for students and researchers._  
+- **Driver Drowsiness Detection AI**  
+  _Real-time driver safety system using OpenCV, Dlib, and Deep Learning._  
+
+🔗 [View All Projects](https://github.com/Diksha-3905?tab=repositories)
+
+---
+
+## 🛠️ Skills & Tools
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure%20AI-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
 </p>
 
 ---
 
-### 🌷 About Me
-- 🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science**
-- 🚀 Building **Computer Vision Projects**: Driver Drowsiness Detection, Smart Parking...
-- 🌱 Learning **Deep Learning**, **YOLOv8**, **Docker**
-- 💬 Ask me about **Python, OpenCV, Machine Learning, GitHub**
-- 📫 **waghdiksha935@gmail.com**
-- 🌐 [LinkedIn](https://www.linkedin.com/in/diksha-wagh-5b52a62ab/)
-
----
-
-### 💻 Tech Stack
+## 📈 GitHub Insights
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,docker,git,github&theme=light" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Diksha-3905&show_icons=true&theme=default"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diksha-3905&theme=default"/>
 </p>
 
 ---
 
-### 📌 Featured Projects
-- 🌸 [Driver Drowsiness Detection](https://github.com/Diksha-3905/driver-drowsiness-detection)
-- 🌸 [Smart Parking Detection](https://github.com/Diksha-3905/parking-spot-detection-cv)
-- 🌸 [Telehealth App Report Analysis](#)
-- 🌸 [NewBee College Assistant Bot](#)
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Diksha-3905&show_icons=true&theme=omni&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Diksha-3905&theme=omni&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Diksha-3905&theme=juicyfresh&no-bg=true&no-frame=true&margin-w=15" />
-</p>
-
----
-
-### ✨ Quote
-> 🌸 *"Empowered women empower AI."* 👑  
-
----
-
-### 📬 Connect With Me
-<p align="center">
-  <a href="mailto:waghdiksha935@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF7AA2?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/diksha-wagh-5b52a62ab/"><img src="https://img.shields.io/badge/LinkedIn-9B5DE5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-
-<!-- 🌸 Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=3,12,19,22,30" width="100%"/>
+## 📬 Connect With Me
+- [LinkedIn](https://linkedin.com/in/your-link)  
+- 📧 **your-email@example.com**
