@@ -1,51 +1,35 @@
-# Hi, I'm Diksha Samrat Wagh 👋
-🎓 Final Year Artificial Intelligence & Data Science Student (B.Tech, 2026)  
-💻 AI & ML Enthusiast | Cloud Security Research | Open Source Contributor  
-
----
-
-## 🌟 About Me
-- 📌 Building projects at the intersection of **AI, Data Science, and Cloud Systems**.  
-- 🏆 **Reliance Scholar | Smart India Hackathon Finalist | Google Gen AI Program**  
-- 💡 Interested in **scalable AI solutions, cloud-native applications, and AutoML research**.  
-- 🔍 Experienced in **Python, C++, JavaScript, FastAPI, Docker, Machine Learning**.  
-
----
-
-## 🚀 Featured Projects
-- **AI Code Reviewer Bot**  
-  _AI-powered code review system with Azure Cognitive Services & GitHub PR auto-analysis._  
-- **Exoplanet Habitability Model**  
-  _Deep learning model comparing JWST spectrogram data to estimate planetary habitability._  
-- **eduAutoML**  
-  _Beginner-friendly AutoML library with CLI & GUI designed for students and researchers._  
-- **Driver Drowsiness Detection AI**  
-  _Real-time driver safety system using OpenCV, Dlib, and Deep Learning._  
-
-🔗 [View All Projects](https://github.com/Diksha-3905?tab=repositories)
-
----
-
-## 🛠️ Skills & Tools
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure%20AI-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-</p>
-
----
-
-## 📈 GitHub Insights
+<!-- Netflix Style Banner -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Diksha-3905&show_icons=true&theme=default"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diksha-3905&theme=default"/>
+  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" alt="Netflix Intro"/>
+</p>
+
+<h1 align="center">🎬 Welcome to Diksha's GitHub</h1>
+<h3 align="center">🚀 AI | Data Science | Machine Learning | Web Development</h3>
+
+---
+
+## 🍿 Featured Projects (Like Netflix Categories)
+
+### 🎮 Gaming Hub
+![Gaming Hub](https://via.placeholder.com/300x180/000000/FF0000?text=Gaming+Hub)
+
+### 🤖 AI Projects
+![AI Projects](https://via.placeholder.com/300x180/000000/FF0000?text=AI+Projects)
+
+### 📊 Data Science
+![Data Science](https://via.placeholder.com/300x180/000000/FF0000?text=Data+Science)
+
+---
+
+## 🔥 Stats (Loading Like Netflix Buffer)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Diksha-3905&show_icons=true&theme=radical" alt="Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diksha-3905&theme=radical" alt="Streak Stats"/>
 </p>
 
 ---
 
-## 📬 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/diksha-wagh-5b52a62ab/)  
-- 📧 **waghdiksha935@gmail.com**
+## 🎥 "Every repo is a story. Every commit is a frame." 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKxOhTn2Nz2tQMg/giphy.gif" width="300px"/>
+</p>
