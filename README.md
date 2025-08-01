@@ -8,7 +8,7 @@
 
 ---
 
-## 🍿 Featured Projects (Like Netflix Categories)
+## 🍿 Featured Projects 
 
 ### 🎮 Gaming Hub
 ![Gaming Hub](https://via.placeholder.com/300x180/000000/FF0000?text=Gaming+Hub)
