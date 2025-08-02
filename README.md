@@ -1,38 +1,31 @@
-# 👋 Hi, I'm Diksha
+# 👋 Hey, I'm Diksha!
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="0px">
-  <img src="https://cdn.dribbble.com/users/255512/screenshots/2305825/media/6c1f4e223f906a6f1a6b4c0cbf2a4b3c.gif" width="400px" alt="Coding Girl"/>
+  <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/coding-freak.gif" width="400px" alt="Coding Girl Animation"/>
 </p>
 
 🎓 **Final-year Artificial Intelligence & Data Science Student**  
-💡 Passionate about **AI, ML, and Data-Driven Applications**  
-🚀 Building innovative tools for automation, analysis, and intelligent systems.
+💡 Passionate about **AI | ML | Data Science | Web Development**  
+🚀 Turning ideas into intelligent systems & real-world applications.
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 My Top Projects
 
 ### 🔍 Crack Detection YOLO
-Detects and segments cracks in images using YOLO for structural health monitoring.  
+AI-powered YOLO model that detects micro-cracks in images for infrastructure safety.  
 [🔗 View Repository](https://github.com/Diksha-3905/crack-detection-yolo)
 
----
-
 ### 🤖 eduAutoML
-Beginner-friendly AutoML library for students to easily train, evaluate, and deploy ML models.  
+Beginner-friendly AutoML tool to make ML accessible for students and researchers.  
 [🔗 View Repository](https://github.com/Diksha-3905/eduAutoML)
 
----
-
 ### 🎮 Gaming Hub
-A hub for gamers to add, explore, and favorite games with a clean UI and authentication system.  
+A one-stop hub for gamers to add, explore, and favorite games.  
 [🔗 View Repository](https://github.com/Diksha-3905/Gaming-Hub)
 
----
-
 ### 🧠 AI Code Reviewer
-An AI-driven GitHub Action that reviews code for quality, performance, and security.  
+An AI-powered code review tool to analyze, suggest, and improve your code.  
 [🔗 View Repository](https://github.com/Diksha-3905/AI-Code-Reviewer)
 
 ---
@@ -40,22 +33,30 @@ An AI-driven GitHub Action that reviews code for quality, performance, and secur
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Diksha-3905&show_icons=true&theme=tokyonight" alt="Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diksha-3905&theme=tokyonight" alt="Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Diksha-3905&show_icons=true&theme=radical" alt="GitHub Stats" height="180">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diksha-3905&theme=radical" alt="GitHub Streak" height="180">
 </p>
 
 ---
 
 ## 💼 Tech Stack
 
-- **Languages:** Python, JavaScript, C++, SQL  
-- **Frameworks:** TensorFlow, PyTorch, YOLOv8, React  
-- **Tools:** Docker, Firebase, Git, Apache Spark  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect With Me
 
 - 🌐 [GitHub](https://github.com/Diksha-3905)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/diksha-wagh-5b52a62ab/)  
-- ✉️ *waghdiksha935@gmail.com*  
+- 💼 LinkedIn (https://www.linkedin.com/in/diksha-wagh-5b52a62ab/)  
+- ✉️ waghdiksha935@gmail.com 
+
+---
+
+✨ *“Every repo is a story. Every commit is a step closer to innovation.”*  
