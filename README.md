@@ -1,5 +1,9 @@
 # 👋 Hi, I'm Diksha
 
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" width="400px" alt="Coding Girl"/>
+</p>
+
 🎓 **Final-year Artificial Intelligence & Data Science Student**  
 💡 Passionate about **AI, ML, and Data-Driven Applications**  
 🚀 Building innovative tools for automation, analysis, and intelligent systems.
