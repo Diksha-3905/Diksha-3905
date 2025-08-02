@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Diksha
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" width="400px" alt="Coding Girl"/>
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="0px">
+  <img src="https://cdn.dribbble.com/users/255512/screenshots/2305825/media/6c1f4e223f906a6f1a6b4c0cbf2a4b3c.gif" width="400px" alt="Coding Girl"/>
 </p>
 
 🎓 **Final-year Artificial Intelligence & Data Science Student**  
