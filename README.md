@@ -1,35 +1,56 @@
-<!-- Netflix Style Banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" alt="Netflix Intro"/>
-</p>
+# 👋 Hi, I'm Diksha
 
-<h1 align="center">🎬 Welcome to Diksha's GitHub</h1>
-<h3 align="center">🚀 AI | Data Science | Machine Learning | Web Development</h3>
+🎓 **Final-year Artificial Intelligence & Data Science Student**  
+💡 Passionate about **AI, ML, and Data-Driven Applications**  
+🚀 Building innovative tools for automation, analysis, and intelligent systems.
 
 ---
 
-## 🍿 Featured Projects 
+## 🌟 Featured Projects
+
+### 🔍 Crack Detection YOLO
+Detects and segments cracks in images using YOLO for structural health monitoring.  
+[🔗 View Repository](https://github.com/Diksha-3905/crack-detection-yolo)
+
+---
+
+### 🤖 eduAutoML
+Beginner-friendly AutoML library for students to easily train, evaluate, and deploy ML models.  
+[🔗 View Repository](https://github.com/Diksha-3905/eduAutoML)
+
+---
 
 ### 🎮 Gaming Hub
-![Gaming Hub](https://via.placeholder.com/300x180/000000/FF0000?text=Gaming+Hub)
-
-### 🤖 AI Projects
-![AI Projects](https://via.placeholder.com/300x180/000000/FF0000?text=AI+Projects)
-
-### 📊 Data Science
-![Data Science](https://via.placeholder.com/300x180/000000/FF0000?text=Data+Science)
+A hub for gamers to add, explore, and favorite games with a clean UI and authentication system.  
+[🔗 View Repository](https://github.com/Diksha-3905/Gaming-Hub)
 
 ---
 
-## 🔥 Stats (Loading Like Netflix Buffer)
+### 🧠 AI Code Reviewer
+An AI-driven GitHub Action that reviews code for quality, performance, and security.  
+[🔗 View Repository](https://github.com/Diksha-3905/AI-Code-Reviewer)
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Diksha-3905&show_icons=true&theme=radical" alt="Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diksha-3905&theme=radical" alt="Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Diksha-3905&show_icons=true&theme=tokyonight" alt="Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diksha-3905&theme=tokyonight" alt="Streak Stats"/>
 </p>
 
 ---
 
-## 🎥 "Every repo is a story. Every commit is a frame." 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKxOhTn2Nz2tQMg/giphy.gif" width="300px"/>
-</p>
+## 💼 Tech Stack
+
+- **Languages:** Python, JavaScript, C++, SQL  
+- **Frameworks:** TensorFlow, PyTorch, YOLOv8, React  
+- **Tools:** Docker, Firebase, Git, Apache Spark  
+
+---
+
+## 📫 Connect with Me
+
+- 🌐 [GitHub](https://github.com/Diksha-3905)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/diksha-wagh-5b52a62ab/)  
+- ✉️ *waghdiksha935@gmail.com*  
