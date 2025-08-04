@@ -1,62 +1,75 @@
-# 👋 Hey, I'm Diksha!
+<!-- Header Section with Animation -->
+<h1 align="center">Hi there, I'm <span style="color:#FF3B3B">Diksha</span> 👩‍💻</h1>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/coding-freak.gif" width="400px" alt="Coding Girl Animation"/>
+  <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/coding-freak.gif" width="350px" alt="coding girl animation">
 </p>
 
-🎓 **Final-year Artificial Intelligence & Data Science Student**  
-💡 Passionate about **AI | ML | Data Science | Web Development**  
-🚀 Turning ideas into intelligent systems & real-world applications.
+<p align="center">
+  <b>Final-year AI & Data Science Student</b> <br>
+  💡 Exploring the intersection of intelligence, code, and creativity <br>
+  🚀 Building tools that solve real-world problems using AI & ML
+</p>
 
 ---
 
-## 🌟 My Top Projects
+## 🛠️ Projects That Define Me
 
 ### 🔍 Crack Detection YOLO
-AI-powered YOLO model that detects micro-cracks in images for infrastructure safety.  
-[🔗 View Repository](https://github.com/Diksha-3905/crack-detection-yolo)
+> AI meets structural integrity. A YOLO-powered model that detects micro-cracks to ensure safety and reliability.  
+🔗 [Explore Repo](https://github.com/Diksha-3905/crack-detection-yolo)
+
+---
 
 ### 🤖 eduAutoML
-Beginner-friendly AutoML tool to make ML accessible for students and researchers.  
-[🔗 View Repository](https://github.com/Diksha-3905/eduAutoML)
+> AutoML made accessible. Designed for students and researchers to build smarter ML models, faster.  
+🔗 [Explore Repo](https://github.com/Diksha-3905/eduAutoML)
+
+---
 
 ### 🎮 Gaming Hub
-A one-stop hub for gamers to add, explore, and favorite games.  
-[🔗 View Repository](https://github.com/Diksha-3905/Gaming-Hub)
+> Built for gamers. A sleek web platform to discover, save, and interact with games.  
+🔗 [Explore Repo](https://github.com/Diksha-3905/Gaming-Hub)
+
+---
 
 ### 🧠 AI Code Reviewer
-An AI-powered code review tool to analyze, suggest, and improve your code.  
-[🔗 View Repository](https://github.com/Diksha-3905/AI-Code-Reviewer)
+> A personal coding mentor. Uses AI to scan and suggest improvements on your code in real-time.  
+🔗 [Explore Repo](https://github.com/Diksha-3905/AI-Code-Reviewer)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 My GitHub Story
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Diksha-3905&show_icons=true&theme=radical" alt="GitHub Stats" height="180">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diksha-3905&theme=radical" alt="GitHub Streak" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=Diksha-3905&show_icons=true&theme=gruvbox" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diksha-3905&theme=gruvbox" width="48%" />
 </p>
 
 ---
 
-## 💼 Tech Stack
+## 🧰 Toolbox
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLOv8-black?style=for-the-badge&logo=OpenCV&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 💬 Let’s Connect
 
-- 🌐 [GitHub](https://github.com/Diksha-3905)  
-- 💼 LinkedIn (https://www.linkedin.com/in/diksha-wagh-5b52a62ab/)  
-- ✉️ waghdiksha935@gmail.com 
+- 🧭 [GitHub](https://github.com/Diksha-3905)  
+- 🧑‍💼 [LinkedIn](#)  
+- 📬 Email: your.email@example.com  
 
 ---
 
-✨ *“Every repo is a story. Every commit is a step closer to innovation.”*  
+<p align="center">
+  <i>"Every model I build learns, improves, and makes a difference."</i><br>
+  <i>— Diksha</i>
+</p>
