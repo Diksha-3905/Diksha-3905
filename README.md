@@ -65,7 +65,7 @@
 
 - 🧭 [GitHub](https://github.com/Diksha-3905)  
 - 🧑‍💼 [LinkedIn](#)  
-- 📬 Email: your.email@example.com  
+- 📬 Email: waghdiksha935@gmail.com
 
 ---
 
