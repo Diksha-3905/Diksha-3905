@@ -11,10 +11,17 @@
   <a href="https://www.linkedin.com/in/diksha-wagh-5b52a62ab">
     <img src="images/linkedin.png" alt="LinkedIn Badge" style="height:40px; border-radius:8px;"/>
   </a>
-  <a href="mailto:waghdiksha935@gmail.com?✨">
+  <a href="mailto:waghdiksha935@gmail.com?subject=%F0%9F%92%8C%20Hello%20from%20GitHub&body=Just%20hopping%20by%20to%20say%20hi%20✨">
     <img src="images/email.png" alt="Email Badge" style="height:40px;"/>
   </a>
 </div>
+
+---
+
+### ✨ Achievements  
+🏅 Reliance Scholar · 🚀 SIH Finalist · 🌸 Google Gen AI Participant  
+
+---
 
 <p>
 I’m an <strong>AI & Data Science student</strong> with a love for gaming, reading, and building cool things!  
@@ -23,6 +30,8 @@ Currently working on <strong>eduAutoML</strong>, an open-source AutoML library f
 
 `Python` `C++` `JavaScript` `React` `TensorFlow` `PyTorch` `YOLOv8` `Firebase`  
 `SQL` `PostgreSQL` `MongoDB` `AWS` `Azure` `GCP`  
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31d2lwsdhwn2f22x6ypsl5fry3wa&cover_image=true&theme=natemoo-re&show_offline=true&background_color=f7c5c5&interchange=true&bar_color=f0c6c6&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31d2lwsdhwn2f22x6ypsl5fry3wa&redirect=true)
 
 <div style="display:flex; justify-content:center;">
   <img align=left
