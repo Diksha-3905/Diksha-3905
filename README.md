@@ -1,75 +1,68 @@
-<!-- Header Section with Animation -->
-<h1 align="center">Hi there, I'm <span style="color:#FF3B3B">Diksha</span> 👩‍💻</h1>
+# Hi, I’m Diksha Wagh 👋  
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/coding-freak.gif" width="350px" alt="coding girl animation">
-</p>
-
-<p align="center">
-  <b>Final-year AI & Data Science Student</b> <br>
-  💡 Exploring the intersection of intelligence, code, and creativity <br>
-  🚀 Building tools that solve real-world problems using AI & ML
-</p>
+### 🚀 AI & Data Science Enthusiast | Builder of Smart Things
+Final-year **B.Tech in Artificial Intelligence & Data Science (2026)**.  
+I love turning complex ideas into impactful projects—from **AutoML libraries** to **Computer Vision apps**—and sharing them with the community.  
 
 ---
 
-## 🛠️ Projects That Define Me
-
-### 🔍 Crack Detection YOLO
-> AI meets structural integrity. A YOLO-powered model that detects micro-cracks to ensure safety and reliability.  
-🔗 [Explore Repo](https://github.com/Diksha-3905/crack-detection-yolo)
-
----
-
-### 🤖 eduAutoML
-> AutoML made accessible. Designed for students and researchers to build smarter ML models, faster.  
-🔗 [Explore Repo](https://github.com/Diksha-3905/eduAutoML)
+## 🌟 Achievements
+- 🎓 **Reliance Foundation Scholar**  
+- 🏆 **Smart India Hackathon Finalist**  
+- 🤝 **Google Gen AI Participant**  
+- 📊 **Data Analyst Intern @ Deloitte**  
+- 🤖 **AI Intern @ Codsoft**  
 
 ---
 
-### 🎮 Gaming Hub
-> Built for gamers. A sleek web platform to discover, save, and interact with games.  
-🔗 [Explore Repo](https://github.com/Diksha-3905/Gaming-Hub)
+## 🔭 Currently Building
+- **eduAutoML** → an open-source AutoML library with CLI & GUI [📦 PyPI Release soon]  
+- **AI FieldOps Agent** → Multi-agent disaster response system (Built on GKE)  
+- **Traffic Violation Detection** → YOLOv8 + CV for helmet detection  
+- **DocAnytime & Gaming Hub** → Mobile apps powered by Firebase  
 
 ---
 
-### 🧠 AI Code Reviewer
-> A personal coding mentor. Uses AI to scan and suggest improvements on your code in real-time.  
-🔗 [Explore Repo](https://github.com/Diksha-3905/AI-Code-Reviewer)
+## 💡 2025–26 Goals
+- Publish my **first PyPI package** ✅  
+- Land a **dream AI/ML role** 🌍  
+- Contribute to **open-source AI research** 🧪  
+- Win or mentor at a **major hackathon** 🏅  
+- Start a **tech blog/YouTube series** to share knowledge 🎥  
 
 ---
 
-## 📊 My GitHub Story
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Diksha-3905&show_icons=true&theme=gruvbox" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diksha-3905&theme=gruvbox" width="48%" />
-</p>
-
----
-
-## 🧰 Toolbox
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLOv8-black?style=for-the-badge&logo=OpenCV&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+## 🛠 Tech Toolbox
+| Domain           | Tools & Tech |
+|------------------|--------------|
+| **Languages**    | Python, JavaScript, C++, C |
+| **AI/ML**        | TensorFlow, PyTorch, YOLOv8, Scikit-learn |
+| **Data Science** | Pandas, Spark, SQL |
+| **Web & Apps**   | React, Firebase, AppMySite, Angular |
+| **Cloud/DevOps** | GCP (GKE), AWS, Azure DevOps, CI/CD |
+| **Databases**    | MySQL, PostgreSQL, MongoDB |
 
 ---
 
-## 💬 Let’s Connect
-
-- 🧭 [GitHub](https://github.com/Diksha-3905)  
-- 🧑‍💼 [LinkedIn](#)  
-- 📬 Email: waghdiksha935@gmail.com
+## 📌 Featured Projects
+- **[eduAutoML](https://github.com/Diksha-3905/eduAutoML)** → Simple AutoML for students  
+- **NASA Web Logs EDA** → Big Data analysis with Apache Spark  
+- **AI-Powered Driver Drowsiness Detection** → OpenCV + Deep Learning  
+- **Telehealth App** → Virtual consultations & medical report analysis  
 
 ---
 
-<p align="center">
-  <i>"Every model I build learns, improves, and makes a difference."</i><br>
-  <i>— Diksha</i>
-</p>
+## 🎮 Beyond Tech
+- Gaming 🎮 (strategy + RPG lover)  
+- Exploring AR & Space Tech 🪐  
+- Writing ✍️ & sharing ideas  
+- Experimenting with **acne-friendly diets** 🥗 (science + self-care)  
+
+---
+
+## 📫 Let’s Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DikshaWagh-blue?logo=linkedin)](https://www.linkedin.com/in/diksha-wagh)  
+[![GitHub](https://img.shields.io/badge/GitHub-Diksha--3905-black?logo=github)](https://github.com/Diksha-3905)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-ff69b4)]()  
+
+> ✨ *“Learn today, build tomorrow.”*  
