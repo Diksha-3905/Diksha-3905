@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/diksha-wagh-5b52a62ab">
     <img src="images/linkedin.png" alt="LinkedIn Badge" style="height:40px; border-radius:8px;"/>
   </a>
-  <a href="mailto:waghdiksha935@gmail.com?subject=%F0%9F%92%8C%20Hello%20from%20GitHub&body=Just%20hopping%20by%20to%20say%20hi%20✨">
+  <a href="mailto:waghdiksha935@gmail.com?✨">
     <img src="images/email.png" alt="Email Badge" style="height:40px;"/>
   </a>
 </div>
