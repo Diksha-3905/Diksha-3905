@@ -1,68 +1,84 @@
-# Hi, I’m Diksha Wagh 👋  
+<h1 align="center">Hi, I’m Diksha 👋</h1>  
 
-### 🚀 AI & Data Science Enthusiast | Builder of Smart Things
-Final-year **B.Tech in Artificial Intelligence & Data Science (2026)**.  
-I love turning complex ideas into impactful projects—from **AutoML libraries** to **Computer Vision apps**—and sharing them with the community.  
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80" height="80"/>
+</p>
 
 ---
 
-## 🌟 Achievements
+### 🌸 About Me  
+💻 AI & Data Science Student (Graduating 2026)  
+🌱 Passionate about **AI, ML, AR & Space Tech**  
+🎮 Gamer • 📚 Bookworm • ✍️ Writer  
+✨ Motto: *"Learn today, build tomorrow"*  
+
+---
+
+### 🏆 Highlights  
 - 🎓 **Reliance Foundation Scholar**  
-- 🏆 **Smart India Hackathon Finalist**  
+- 🏅 **Smart India Hackathon Finalist**  
 - 🤝 **Google Gen AI Participant**  
-- 📊 **Data Analyst Intern @ Deloitte**  
+- 📊 **Ex-Data Analyst Intern @ Deloitte**  
 - 🤖 **AI Intern @ Codsoft**  
 
 ---
 
-## 🔭 Currently Building
-- **eduAutoML** → an open-source AutoML library with CLI & GUI [📦 PyPI Release soon]  
-- **AI FieldOps Agent** → Multi-agent disaster response system (Built on GKE)  
-- **Traffic Violation Detection** → YOLOv8 + CV for helmet detection  
-- **DocAnytime & Gaming Hub** → Mobile apps powered by Firebase  
+### 🔭 Current Projects  
+🌟 **eduAutoML** → Open-source AutoML library [🚀 PyPI soon!]  
+⚡ **AI FieldOps Agent** → Multi-agent disaster response on GKE  
+🎥 **Traffic Violation Detection** → Helmet detection using YOLOv8  
+📱 **DocAnytime** & **Gaming Hub** → Apps with Firebase  
 
 ---
 
-## 💡 2025–26 Goals
-- Publish my **first PyPI package** ✅  
-- Land a **dream AI/ML role** 🌍  
-- Contribute to **open-source AI research** 🧪  
-- Win or mentor at a **major hackathon** 🏅  
-- Start a **tech blog/YouTube series** to share knowledge 🎥  
+### 💡 2025–26 Goals  
+☑️ Publish first **PyPI package**  
+🌍 Land a **dream AI/ML role**  
+🧪 Contribute to **open-source research**  
+🏆 Win/Mentor at **hackathons**  
+🎥 Start a **Tech Blog/YouTube series**  
 
 ---
 
-## 🛠 Tech Toolbox
-| Domain           | Tools & Tech |
-|------------------|--------------|
-| **Languages**    | Python, JavaScript, C++, C |
-| **AI/ML**        | TensorFlow, PyTorch, YOLOv8, Scikit-learn |
-| **Data Science** | Pandas, Spark, SQL |
-| **Web & Apps**   | React, Firebase, AppMySite, Angular |
-| **Cloud/DevOps** | GCP (GKE), AWS, Azure DevOps, CI/CD |
-| **Databases**    | MySQL, PostgreSQL, MongoDB |
+### 🛠 Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,html,css,java,git,github,vscode,linux,mysql,postgresql,mongodb,aws,gcp,azure,tensorflow,pytorch" />
+</p>
 
 ---
 
-## 📌 Featured Projects
-- **[eduAutoML](https://github.com/Diksha-3905/eduAutoML)** → Simple AutoML for students  
-- **NASA Web Logs EDA** → Big Data analysis with Apache Spark  
-- **AI-Powered Driver Drowsiness Detection** → OpenCV + Deep Learning  
-- **Telehealth App** → Virtual consultations & medical report analysis  
+### ✨ GitHub Fun Stats  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diksha-3905&theme=tokyonight" alt="GitHub Streak" />
+</p>  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Diksha-3905&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diksha-3905&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
-## 🎮 Beyond Tech
-- Gaming 🎮 (strategy + RPG lover)  
-- Exploring AR & Space Tech 🪐  
-- Writing ✍️ & sharing ideas  
-- Experimenting with **acne-friendly diets** 🥗 (science + self-care)  
+### 🎀 A Little More About Me  
+- 🪐 Exploring **AI x Space research**  
+- 🥗 Experimenting with **acne-friendly diets**  
+- 🎮 RPG & Strategy gamer at heart  
+- 🌸 Always curious, always learning  
 
 ---
 
-## 📫 Let’s Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-DikshaWagh-blue?logo=linkedin)](https://www.linkedin.com/in/diksha-wagh)  
-[![GitHub](https://img.shields.io/badge/GitHub-Diksha--3905-black?logo=github)](https://github.com/Diksha-3905)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-ff69b4)]()  
+### 🌐 Let’s Connect  
+<p align="center">
+  <a href="https://www.linkedin.com/in/diksha-wagh/"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://github.com/Diksha-3905"><img src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white&style=for-the-badge" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Portfolio-ff69b4?style=for-the-badge" /></a>
+</p>  
 
-> ✨ *“Learn today, build tomorrow.”*  
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT0xezQGU5xCDJuCPe/giphy.gif" width="150" />  
+</p>
