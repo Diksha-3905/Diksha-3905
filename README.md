@@ -17,7 +17,7 @@
 ---
 
 ### ✨ Achievements  
-🏅 Reliance Scholar · 🚀 SIH Finalist · 🌸 Google Gen AI Participant  
+🏅 Reliance Scholar · 🌸 Google Gen AI Participant  
 
 ---
 
