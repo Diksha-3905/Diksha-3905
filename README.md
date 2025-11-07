@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Demon Slayer Image](https://i.pinimg.com/564x/6c/7a/ce/6c7ace25c35e1a032e0be2af1ef5a0d1.jpg)](https://www.pinterest.com/pin/57069120275579219/)
+[![Demon Slayer Image](https://github.com/Diksha-3905/Diksha-3905/blob/main/67a235cbbd9fa21ca7c427c6f7d4387d.gif)
 
 # 🗡️ 鬼滅の刃 — *Demon Slayer Mode Activated*
 
