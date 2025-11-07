@@ -74,7 +74,7 @@
 
 #### `– Diksha | Demon Slayer of Code`
 
-<img src="https://i.imgur.com/gU8PYd9.png" width="300">
+<img src="https://i.imgur.com/gU8PYd9.png" width="300](https://github.com/Diksha-3905/Diksha-3905/blob/main/Zenitsu.jpeg">
 
 </div>
 
