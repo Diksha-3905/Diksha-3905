@@ -1,43 +1,395 @@
-<img align=left src="images/profile-gif.gif" height=350px>
+<div align="center">
 
-<div align=left>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=32&duration=3000&pause=1000&color=F7A3A3&vCenter=true&width=435&lines=Hello!+I'm+Diksha+%C2%B0%EF%BD%A1%E2%8B%86%CB%9A%E2%81%BA;Nice+to+meet+you!+%C2%B0%EF%BD%A1%E2%8B%86%CB%9A%E2%81%BA" alt="Typing SVG" /></a>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=Diksha-3905&style=for-the-badge&color=c08585" alt="Number of Profile Views."/>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-C08585?style=for-the-badge" alt="Portfolio Badge"/>
-  </a>
-  <br />
-  <a href="https://www.linkedin.com/in/diksha-wagh-5b52a62ab">
-  </a>
-  <a href="mailto:waghdiksha935@gmail.com?subject=%F0%9F%92%8C%20Hello%20from%20GitHub&body=Just%20hopping%20by%20to%20say%20hi%20✨">
-  </a>
+<img src="https://i.imgur.com/2tjtPjF.png" width="200">
+
+# 🗡️ 鬼滅の刃 — *Demon Slayer Mode Activated*
+
+### `I walk the path of code the same way Tanjiro wields his blade —`
+### **with determination, discipline, and unbreakable will.**
+
+---
+
+### 🌊 *Breathing Style:*  **Code Breathing — 7th Form: Bug Extermination**
+> “No bug survives my blade.  
+> No deadline scares me.”
+
+---
+
+<div align="left">
+
+## 👤 About Me
+- 🔥 Final-year **AI & Data Science** warrior  
+- ⚔️ I battle bugs and build real-world projects  
+- 🌪️ Passion: Machine Learning | Computer Vision | AR | Full-stack  
+- 🎯 Goal: Become a world-class **AI + Software Engineer**
+
+---
+
+## ⚔️ Skills in My Arsenal
+
+| Skill Type | Techniques Used |
+|-----------|-----------------|
+| 💻 Programming Breathing | Python · JavaScript · C++ |
+| 🧠 AI/ML Styles | TensorFlow · Scikit-Learn · YOLOv8 |
+| 🌐 Full Stack Forms | React (Frontend), Firebase (Auth/DB), Docker (Deployment) |
+| ⚙️ Tools | Git · GitHub · VS Code · Linux |
+
+---
+
+## 🗃️ My Featured Missions (Projects)
+
+| Mission | Rank | Status |
+|---------|------|--------|
+| 🛰️ *NASA Web Log Analysis (Big Data)* | Hashira | ✅ Completed |
+| 🎙️ *Audio Beacon – Location guidance* | Upper Moon | ✅ Completed |
+| 👾 *Driver Drowsiness Detection (CV)* | Pillar Training | 🛠️ In Progress |
+| 🤖 *eduAutoML — AutoML Library* | Mastery Quest | 🔥 Active Dev |
+
+---
+
+## 🥋 Current Training Arc
+> 📚 *"Even if I'm slow, I never stop." — Tanjiro Kamado*
+
+- Learning **Cloud Security + ML Ops**
+- Improving **clean architecture & scalable code**
+- Strengthening **DSA + System Design**
+
+---
+
+## 📬 Contact Me — *Crow Messenger*
+
+<a href="mailto:yourmail@gmail.com">📩 Email</a> |
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">💼 LinkedIn</a> |
+<a href="https://github.com/YOUR-GITHUB">🛡 GitHub</a>
+
+---
+
+### ✨ *If you clone this repo…*
+> “Take a deep breath. Believe in yourself.  
+> And slash through the bugs.”
+
+---
+
+### ⚔️ Signature
+
+#### `– Diksha | Demon Slayer of Code`
+
+<img src="https://i.imgur.com/gU8PYd9.png" width="300">
+
 </div>
+<div align="center">
+
+<img src="https://i.imgur.com/2tjtPjF.png" width="200">
+
+# 🗡️ 鬼滅の刃 — *Demon Slayer Mode Activated*
+
+### `I walk the path of code the same way Tanjiro wields his blade —`
+### **with determination, discipline, and unbreakable will.**
 
 ---
 
-### ✨ Achievements  
-🏅 Reliance Scholar · 🌸 Google Gen AI Participant  
+### 🌊 *Breathing Style:*  **Code Breathing — 7th Form: Bug Extermination**
+> “No bug survives my blade.  
+> No deadline scares me.”
 
 ---
 
-<p>
-I’m an <strong>AI & Data Science student</strong> with a love for gaming, reading, and building cool things!  
-Currently working on <strong>eduAutoML</strong>, an open-source AutoML library for students ♡
-</p>
+<div align="left">
 
-`Python` `C++` `JavaScript` `React` `TensorFlow` `PyTorch` `YOLOv8` `Firebase`  
-`SQL` `PostgreSQL` `MongoDB` `AWS` `Azure` `GCP`  
+## 👤 About Me
+- 🔥 Final-year **AI & Data Science** warrior  
+- ⚔️ I battle bugs and build real-world projects  
+- 🌪️ Passion: Machine Learning | Computer Vision | AR | Full-stack  
+- 🎯 Goal: Become a world-class **AI + Software Engineer**
 
-<div style="display:flex; justify-content:center;">
-  <img align=left
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diksha-3905&layout=compact&bg_color=E5BFBF&title_color=A95F5F&text_color=000000&card_width=460" 
-    alt="Most used programming languages." 
-    style="flex:1; height:150px; object-fit:cover;"
-  />
-  <img align=right
-    src="https://github-readme-stats.vercel.app/api?username=Diksha-3905&show_icons=true&theme=rose&date_format=j%20M%5B%20Y%5D" 
-    alt="GitHub streak stats." 
-    style="flex:1; height:150px; object-fit:cover;"
-  />
+---
+
+## ⚔️ Skills in My Arsenal
+
+| Skill Type | Techniques Used |
+|-----------|-----------------|
+| 💻 Programming Breathing | Python · JavaScript · C++ |
+| 🧠 AI/ML Styles | TensorFlow · Scikit-Learn · YOLOv8 |
+| 🌐 Full Stack Forms | React (Frontend), Firebase (Auth/DB), Docker (Deployment) |
+| ⚙️ Tools | Git · GitHub · VS Code · Linux |
+
+---
+
+## 🗃️ My Featured Missions (Projects)
+
+| Mission | Rank | Status |
+|---------|------|--------|
+| 🛰️ *NASA Web Log Analysis (Big Data)* | Hashira | ✅ Completed |
+| 🎙️ *Audio Beacon – Location guidance* | Upper Moon | ✅ Completed |
+| 👾 *Driver Drowsiness Detection (CV)* | Pillar Training | 🛠️ In Progress |
+| 🤖 *eduAutoML — AutoML Library* | Mastery Quest | 🔥 Active Dev |
+
+---
+
+## 🥋 Current Training Arc
+> 📚 *"Even if I'm slow, I never stop." — Tanjiro Kamado*
+
+- Learning **Cloud Security + ML Ops**
+- Improving **clean architecture & scalable code**
+- Strengthening **DSA + System Design**
+
+---
+
+## 📬 Contact Me — *Crow Messenger*
+
+<a href="mailto:yourmail@gmail.com">📩 Email</a> |
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">💼 LinkedIn</a> |
+<a href="https://github.com/YOUR-GITHUB">🛡 GitHub</a>
+
+---
+
+### ✨ *If you clone this repo…*
+> “Take a deep breath. Believe in yourself.  
+> And slash through the bugs.”
+
+---
+
+### ⚔️ Signature
+
+#### `– Diksha | Demon Slayer of Code`
+
+<img src="https://i.imgur.com/gU8PYd9.png" width="300">
+
+</div>
+<div align="center">
+
+<img src="https://i.imgur.com/2tjtPjF.png" width="200">
+
+# 🗡️ 鬼滅の刃 — *Demon Slayer Mode Activated*
+
+### `I walk the path of code the same way Tanjiro wields his blade —`
+### **with determination, discipline, and unbreakable will.**
+
+---
+
+### 🌊 *Breathing Style:*  **Code Breathing — 7th Form: Bug Extermination**
+> “No bug survives my blade.  
+> No deadline scares me.”
+
+---
+
+<div align="left">
+
+## 👤 About Me
+- 🔥 Final-year **AI & Data Science** warrior  
+- ⚔️ I battle bugs and build real-world projects  
+- 🌪️ Passion: Machine Learning | Computer Vision | AR | Full-stack  
+- 🎯 Goal: Become a world-class **AI + Software Engineer**
+
+---
+
+## ⚔️ Skills in My Arsenal
+
+| Skill Type | Techniques Used |
+|-----------|-----------------|
+| 💻 Programming Breathing | Python · JavaScript · C++ |
+| 🧠 AI/ML Styles | TensorFlow · Scikit-Learn · YOLOv8 |
+| 🌐 Full Stack Forms | React (Frontend), Firebase (Auth/DB), Docker (Deployment) |
+| ⚙️ Tools | Git · GitHub · VS Code · Linux |
+
+---
+
+## 🗃️ My Featured Missions (Projects)
+
+| Mission | Rank | Status |
+|---------|------|--------|
+| 🛰️ *NASA Web Log Analysis (Big Data)* | Hashira | ✅ Completed |
+| 🎙️ *Audio Beacon – Location guidance* | Upper Moon | ✅ Completed |
+| 👾 *Driver Drowsiness Detection (CV)* | Pillar Training | 🛠️ In Progress |
+| 🤖 *eduAutoML — AutoML Library* | Mastery Quest | 🔥 Active Dev |
+
+---
+
+## 🥋 Current Training Arc
+> 📚 *"Even if I'm slow, I never stop." — Tanjiro Kamado*
+
+- Learning **Cloud Security + ML Ops**
+- Improving **clean architecture & scalable code**
+- Strengthening **DSA + System Design**
+
+---
+
+## 📬 Contact Me — *Crow Messenger*
+
+<a href="mailto:yourmail@gmail.com">📩 Email</a> |
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">💼 LinkedIn</a> |
+<a href="https://github.com/YOUR-GITHUB">🛡 GitHub</a>
+
+---
+
+### ✨ *If you clone this repo…*
+> “Take a deep breath. Believe in yourself.  
+> And slash through the bugs.”
+
+---
+
+### ⚔️ Signature
+
+#### `– Diksha | Demon Slayer of Code`
+
+<img src="https://i.imgur.com/gU8PYd9.png" width="300">
+
+</div>
+<div align="center">
+
+<img src="https://i.imgur.com/2tjtPjF.png" width="200">
+
+# 🗡️ 鬼滅の刃 — *Demon Slayer Mode Activated*
+
+### `I walk the path of code the same way Tanjiro wields his blade —`
+### **with determination, discipline, and unbreakable will.**
+
+---
+
+### 🌊 *Breathing Style:*  **Code Breathing — 7th Form: Bug Extermination**
+> “No bug survives my blade.  
+> No deadline scares me.”
+
+---
+
+<div align="left">
+
+## 👤 About Me
+- 🔥 Final-year **AI & Data Science** warrior  
+- ⚔️ I battle bugs and build real-world projects  
+- 🌪️ Passion: Machine Learning | Computer Vision | AR | Full-stack  
+- 🎯 Goal: Become a world-class **AI + Software Engineer**
+
+---
+
+## ⚔️ Skills in My Arsenal
+
+| Skill Type | Techniques Used |
+|-----------|-----------------|
+| 💻 Programming Breathing | Python · JavaScript · C++ |
+| 🧠 AI/ML Styles | TensorFlow · Scikit-Learn · YOLOv8 |
+| 🌐 Full Stack Forms | React (Frontend), Firebase (Auth/DB), Docker (Deployment) |
+| ⚙️ Tools | Git · GitHub · VS Code · Linux |
+
+---
+
+## 🗃️ My Featured Missions (Projects)
+
+| Mission | Rank | Status |
+|---------|------|--------|
+| 🛰️ *NASA Web Log Analysis (Big Data)* | Hashira | ✅ Completed |
+| 🎙️ *Audio Beacon – Location guidance* | Upper Moon | ✅ Completed |
+| 👾 *Driver Drowsiness Detection (CV)* | Pillar Training | 🛠️ In Progress |
+| 🤖 *eduAutoML — AutoML Library* | Mastery Quest | 🔥 Active Dev |
+
+---
+
+## 🥋 Current Training Arc
+> 📚 *"Even if I'm slow, I never stop." — Tanjiro Kamado*
+
+- Learning **Cloud Security + ML Ops**
+- Improving **clean architecture & scalable code**
+- Strengthening **DSA + System Design**
+
+---
+
+## 📬 Contact Me — *Crow Messenger*
+
+<a href="mailto:yourmail@gmail.com">📩 Email</a> |
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">💼 LinkedIn</a> |
+<a href="https://github.com/YOUR-GITHUB">🛡 GitHub</a>
+
+---
+
+### ✨ *If you clone this repo…*
+> “Take a deep breath. Believe in yourself.  
+> And slash through the bugs.”
+
+---
+
+### ⚔️ Signature
+
+#### `– Diksha | Demon Slayer of Code`
+
+<img src="https://i.imgur.com/gU8PYd9.png" width="300">
+
+</div>
+<div align="center">
+
+<img src="https://i.imgur.com/2tjtPjF.png" width="200">
+
+# 🗡️ 鬼滅の刃 — *Demon Slayer Mode Activated*
+
+### `I walk the path of code the same way Tanjiro wields his blade —`
+### **with determination, discipline, and unbreakable will.**
+
+---
+
+### 🌊 *Breathing Style:*  **Code Breathing — 7th Form: Bug Extermination**
+> “No bug survives my blade.  
+> No deadline scares me.”
+
+---
+
+<div align="left">
+
+## 👤 About Me
+- 🔥 Final-year **AI & Data Science** warrior  
+- ⚔️ I battle bugs and build real-world projects  
+- 🌪️ Passion: Machine Learning | Computer Vision | AR | Full-stack  
+- 🎯 Goal: Become a world-class **AI + Software Engineer**
+
+---
+
+## ⚔️ Skills in My Arsenal
+
+| Skill Type | Techniques Used |
+|-----------|-----------------|
+| 💻 Programming Breathing | Python · JavaScript · C++ |
+| 🧠 AI/ML Styles | TensorFlow · Scikit-Learn · YOLOv8 |
+| 🌐 Full Stack Forms | React (Frontend), Firebase (Auth/DB), Docker (Deployment) |
+| ⚙️ Tools | Git · GitHub · VS Code · Linux |
+
+---
+
+## 🗃️ My Featured Missions (Projects)
+
+| Mission | Rank | Status |
+|---------|------|--------|
+| 🛰️ *NASA Web Log Analysis (Big Data)* | Hashira | ✅ Completed |
+| 🎙️ *Audio Beacon – Location guidance* | Upper Moon | ✅ Completed |
+| 👾 *Driver Drowsiness Detection (CV)* | Pillar Training | 🛠️ In Progress |
+| 🤖 *eduAutoML — AutoML Library* | Mastery Quest | 🔥 Active Dev |
+
+---
+
+## 🥋 Current Training Arc
+> 📚 *"Even if I'm slow, I never stop." — Tanjiro Kamado*
+
+- Learning **Cloud Security + ML Ops**
+- Improving **clean architecture & scalable code**
+- Strengthening **DSA + System Design**
+
+---
+
+## 📬 Contact Me — *Crow Messenger*
+
+<a href="mailto:yourmail@gmail.com">📩 Email</a> |
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">💼 LinkedIn</a> |
+<a href="https://github.com/YOUR-GITHUB">🛡 GitHub</a>
+
+---
+
+### ✨ *If you clone this repo…*
+> “Take a deep breath. Believe in yourself.  
+> And slash through the bugs.”
+
+---
+
+### ⚔️ Signature
+
+#### `– Diksha | Demon Slayer of Code`
+
+<img src="https://i.imgur.com/gU8PYd9.png" width="300">
+
 </div>
