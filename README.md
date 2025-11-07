@@ -1,9 +1,8 @@
-<div align="center">
 <div align=left>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=32&duration=3000&pause=1000&color=FFD700&vCenter=true&width=435&lines=Hello!+I'm+Diksha+%C2%B0%EF%BD%A1%E2%8B%86%CB%9A%E2%81%BA;Nice+to+meet+you!+%C2%B0%EF%BD%A1%E2%8B%86%CB%9A%E2%81%BA" alt="Typing SVG" />
   </a>
-</div>
+<div align="center">
 [![Demon Slayer Image](https://github.com/Diksha-3905/Diksha-3905/blob/main/67a235cbbd9fa21ca7c427c6f7d4387d.gif)
 
 # 🗡️ 鬼滅の刃 — *Demon Slayer Mode Activated*
