@@ -17,7 +17,7 @@
 ---
 
 ### ✨ Achievements  
-🏅 Reliance Scholar · 🌸 AI Researcher IEEE Paper Published  
+🏅 Reliance Scholar · 🌸 AI Researcher (IEEE) Paper Published ♠️
 
 ---
 
