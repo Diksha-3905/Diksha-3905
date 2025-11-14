@@ -17,7 +17,7 @@
 ---
 
 ### ✨ Achievements  
-🏅 Reliance Scholar · 🌸 Google Gen AI Participant  
+🏅 Reliance Scholar · 🌸 AI Researcher IEEE Paper Published  
 
 ---
 
