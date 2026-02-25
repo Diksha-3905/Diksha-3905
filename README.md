@@ -1,102 +1,89 @@
-<h1 align="center">Hi 👋, I'm Diksha Wagh</h1>
-<h3 align="center">AI & Data Science Engineer | Open-Source Builder | Research Enthusiast</h3>
+# 👋 Hi, I'm Diksha Wagh
 
-<p align="center">
-  <a href="https://github.com/Diksha-3905">
-    <img src="https://komarev.com/ghpvc/?username=Diksha-3905&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
-  </a>
-  <a href="https://github.com/Diksha-3905?tab=followers">
-    <img src="https://img.shields.io/github/followers/Diksha-3905?label=Followers&style=social" alt="followers" />
-  </a>
-  <img src="https://img.shields.io/github/stars/Diksha-3905?affiliations=OWNER&style=social" />
-</p>
+AI & Data Science student who loves building real-world AI systems.  
+Coffee ☕ | Late-night debugging 🌙 | Big ideas 💡
+
+---
+
+## 🌟 About Me
+
+- 🎓 Final-Year B.Tech in Artificial Intelligence & Data Science  
+- 🏆 Reliance Scholar | SIH Finalist | Google Gen AI Participant  
+- 🧠 Interested in AI Systems, Computer Vision, NLP & Scalable ML  
+- 🚀 I focus on practical, deployable projects — not just notebooks  
 
 ---
 
 ## 📌 Table of Contents
 
-- 🚀 About Me  
-- 🧠 Key Projects  
+- 🌟 About Me  
+- 🚀 Featured Projects  
 - 🛠 Tech Stack  
 - 📊 GitHub Stats  
-- 📸 Project Snapshots  
-- 🤝 How to Contribute  
-- 📫 Connect With Me  
+- 🤝 Contribution  
+- 📫 Connect  
 
 ---
 
-## 🚀 About Me
+## 🚀 Featured Projects
 
-🎓 Final-Year B.Tech in Artificial Intelligence & Data Science  
-🏆 Reliance Scholar | SIH Finalist | Google Gen AI Program Participant  
-💡 Passionate about AI Systems, Computer Vision, NLP & Scalable ML  
-
-I build **real-world AI systems**, not just notebooks.
-
----
-
-## 🧠 Key Projects
-
-### ⭐ 1. eduAutoML  
-🔗 https://github.com/Diksha-3905/eduAutoML  
+### 🔹 eduAutoML  
+> An open-source AutoML library designed for students.
 
 - Auto-detect classification/regression  
 - Automatic preprocessing  
-- CLI-based training  
-- GUI (Coming Soon)  
-- PyPI Publishing in Progress  
+- CLI-based model training  
+- GUI + PyPI version coming soon  
+
+🔗 https://github.com/Diksha-3905/eduAutoML  
 
 ---
 
-### 🚗 2. AI Driver Drowsiness Detection  
+### 🔹 AI Driver Drowsiness & Violation Detection  
+> Real-time computer vision system using YOLOv8
+
+- Helmet detection  
+- Real-time alerts  
+- Optimized inference pipeline  
+
 🔗 https://github.com/Diksha-3905/traffic-violation-detection-ai  
 
-- YOLOv8-based detection  
-- Real-time alert system  
-- Computer Vision pipeline  
-- Optimized for real-world deployment  
-
 ---
 
-### 🌍 3. Exoplanet Habitability Model  
-Spectrogram comparison using AI to estimate planetary compatibility.
+### 🔹 Exoplanet Habitability AI Model  
+> Spectrogram-based planetary compatibility analysis.
 
 ---
 
 ## 🛠 Tech Stack
 
-### 👩‍💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🤖 AI & ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge)
-
-### 🌐 Web & Cloud
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+**Languages:** Python, C++, JavaScript  
+**AI/ML:** TensorFlow, PyTorch, YOLOv8, OpenCV  
+**Web/Cloud:** React, Firebase, GCP  
+**Data:** SQL, MongoDB, PostgreSQL  
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Diksha-3905&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diksha-3905&theme=tokyonight" />
-</p>
+![Diksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diksha-3905&show_icons=true&theme=default)
 
 ---
 
-## 📸 Project Snapshots
+## 🤝 Want to Contribute?
 
-> Add screenshots or GIFs here (very important for recruiters)
+I welcome:
+- ⭐ Stars  
+- 🐛 Bug reports  
+- ✨ Feature ideas  
+- 🔧 Pull requests  
 
-Example:
+If something inspires you, feel free to fork and build on it.
 
-```markdown
-### 🚗 Drowsiness Detection Demo
-![demo](https://your-image-link.com/demo.gif)
+---
+
+## 📫 Connect
+
+🌐 Portfolio: https://diksha-sparkle-folio.lovable.app/  
+
+Thanks for visiting! 💛
