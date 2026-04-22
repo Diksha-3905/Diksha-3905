@@ -24,7 +24,7 @@ class DikshaWagh:
     name        = "Diksha Wagh"
     pronouns    = "she / her"
     location    = "Nashik, India 🇮🇳"
-    role        = "AI & Data Science Student"
+    role        = "AI & ML Engineer"
     
     achievements = [
         "🏅 Reliance Foundation Scholar",
