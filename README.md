@@ -1,198 +1,208 @@
+<!-- Header -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:1a0533,80:2d1b69,100:0f3460&height=220&section=header&text=Diksha%20Wagh&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20IEEE%20Researcher%20%7C%20Reliance%20Scholar&descAlignY=60&descSize=18&animation=fadeIn&fontAlign=50" />
+</div>
+
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Diksha&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Creator%20%7C%20Problem%20Solver&descAlignY=58&descSize=20&animation=fadeIn" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=C084FC&center=true&vCenter=true&width=700&lines=Building+eduAutoML+%F0%9F%A4%96+%E2%80%94+AutoML+for+every+student;IEEE+Published+AI+Researcher+%F0%9F%93%84;Computer+Vision+%7C+Deep+Learning+%7C+MLOps;Reliance+Foundation+Scholar+%F0%9F%8F%85;Codes+with+coffee+%E2%98%95+%7C+Games+%7C+Late-night+novels+%F0%9F%93%96" alt="Typing SVG" />
 
-<!-- Typing Animation -->
-<a href="https://github.com/Diksha-3905">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Diksha+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%8C%9F;Always+learning%2C+always+building+%F0%9F%94%A5" alt="Typing SVG" />
-</a>
+<br/><br/>
 
-<br/>
-
-<!-- Profile Views & Followers -->
-<img src="https://komarev.com/ghpvc/?username=Diksha-3905&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/Diksha-3905?style=for-the-badge&color=7c3aed&label=FOLLOWERS" />
+[![Profile Views](https://komarev.com/ghpvc/?username=Diksha-3905&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/Diksha-3905)
+[![GitHub followers](https://img.shields.io/github/followers/Diksha-3905?style=for-the-badge&color=7c3aed&label=FOLLOWERS)](https://github.com/Diksha-3905)
+[![Stars](https://img.shields.io/badge/⭐_Stars_Earned-16-7c3aed?style=for-the-badge)](https://github.com/Diksha-3905)
 
 </div>
 
 ---
 
-<div align="center">
+## 🧠 `whoami`
 
-## 🌌 About Me
-
-</div>
-
-```typescript
-const diksha = {
-  role        : "Full Stack Developer",
-  location    : "India 🇮🇳",
-  focus       : ["Clean Code", "Scalable Systems", "User-Centric Design"],
-  currentlyOn : "Building something remarkable 🚀",
-  askMeAbout  : ["Web Dev", "APIs", "UI/UX", "Open Source"],
-  funFact     : "I debug code faster with coffee ☕ and lo-fi music 🎵",
-  motto       : "\"Code is poetry. Write it beautifully.\" ✨",
-};
+```python
+class DikshaWagh:
+    name        = "Diksha Wagh"
+    pronouns    = "she / her"
+    location    = "Nashik, India 🇮🇳"
+    role        = "AI & Data Science Student"
+    
+    achievements = [
+        "🏅 Reliance Foundation Scholar",
+        "📄 IEEE Paper Published — AI Researcher",
+    ]
+    
+    currently_building = "eduAutoML — open-source AutoML library for students 🤖"
+    
+    interests   = ["Computer Vision", "Deep Learning", "AutoML", "MLOps"]
+    fun_side    = ["RPG gaming 🎮", "Late-night novels 📚", "Coffee-fueled coding ☕"]
+    
+    contact     = "waghdiksha935@gmail.com"
+    portfolio   = "https://preview--diksha-sparkle-folio.lovable.app/"
+    
+    motto       = "Build smart things. Break barriers. Ship with purpose. 🚀"
 ```
 
 ---
 
+## 🏆 Achievements & Recognition
+
 <div align="center">
 
-## 🛠️ Tech Arsenal
-
-### 💻 Languages
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css&theme=dark&perline=7" />
-
-### ⚡ Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap,redux&theme=dark&perline=7" />
-
-### 🗄️ Databases & Cloud
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,aws,docker,git&theme=dark&perline=7" />
-
-### 🧰 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=vscode,figma,postman,linux,github,vercel,netlify&theme=dark&perline=7" />
+| 🏅 Reliance Foundation Scholar | 📄 IEEE Research Published | 🌐 45+ Repositories | ⭐ 228 Commits (Last Year) |
+|:---:|:---:|:---:|:---:|
+| Nationally recognized merit scholarship for academic & research excellence | Published AI research in the IEEE ecosystem — peer-reviewed & cited | Active builder across ML, CV, and full-stack domains | Consistent open-source contributor & project builder |
 
 </div>
 
 ---
 
+## 🛠️ Tech Stack
+
 <div align="center">
 
-## 📊 GitHub Analytics
+### 🤖 AI / ML / Data Science
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&theme=dark" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Diksha-3905&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff&ring_color=7c3aed" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Diksha-3905&theme=tokyonight&hide_border=true&background=0D1117&ring=7c3aed&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=ffffff&dates=888" />
+> `Python` &nbsp;·&nbsp; `TensorFlow` &nbsp;·&nbsp; `PyTorch` &nbsp;·&nbsp; `YOLOv8` &nbsp;·&nbsp; `Scikit-learn` &nbsp;·&nbsp; `OpenCV` &nbsp;·&nbsp; `Jupyter`
+
+### 💻 Development
+<img src="https://skillicons.dev/icons?i=cpp,js,react,firebase&theme=dark" />
+
+> `C++` &nbsp;·&nbsp; `JavaScript` &nbsp;·&nbsp; `React` &nbsp;·&nbsp; `Dart`
+
+### 🗄️ Databases & Cloud
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,aws,azure,gcp&theme=dark" />
+
+> `PostgreSQL` &nbsp;·&nbsp; `MongoDB` &nbsp;·&nbsp; `SQL` &nbsp;·&nbsp; `AWS` &nbsp;·&nbsp; `Azure` &nbsp;·&nbsp; `GCP` &nbsp;·&nbsp; `Firebase`
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Diksha-3905&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=C084FC&text_color=ffffff&ring_color=7c3aed&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Diksha-3905&theme=tokyonight&hide_border=true&background=0D1117&ring=7c3aed&fire=C084FC&currStreakLabel=C084FC&sideLabels=ffffff&dates=888888" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diksha-3905&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff&langs_count=8" />
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diksha-3905&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=ffffff&langs_count=7" />
 
 </div>
 
 ---
-
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Diksha-3905&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=4" />
-
-</div>
-
----
-
-<div align="center">
 
 ## 🚀 Featured Projects
 
-</div>
+<div align="center">
 
-<table align="center">
-  <tr>
-    <td width="50%">
-      <h3 align="center">🔥 Project Alpha</h3>
-      <div align="center">
-        <a href="https://github.com/Diksha-3905" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diksha-3905&repo=your-repo-1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA" width="100%" />
-        </a>
-        <p><strong>Full-stack web application with modern UI</strong></p>
-        <a href="https://github.com/Diksha-3905"><img src="https://img.shields.io/badge/Code-7c3aed?style=for-the-badge&logo=github"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/Live-00b4d8?style=for-the-badge&logo=vercel"/></a>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">⚡ Project Beta</h3>
-      <div align="center">
-        <a href="https://github.com/Diksha-3905" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diksha-3905&repo=your-repo-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA" width="100%" />
-        </a>
-        <p><strong>Scalable backend API with cloud integration</strong></p>
-        <a href="https://github.com/Diksha-3905"><img src="https://img.shields.io/badge/Code-7c3aed?style=for-the-badge&logo=github"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/Live-00b4d8?style=for-the-badge&logo=vercel"/></a>
-      </div>
-    </td>
-  </tr>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚗 Driver Drowsiness Detection
+> *AI-powered road safety system*
+
+Real-time drowsiness detection using **facial landmark analysis** and **eye movement tracking**. Built to prevent road accidents before they happen.
+
+**Stack:** `Python` · `OpenCV` · `Deep Learning` · `Computer Vision`
+
+[![Repo](https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=C084FC)](https://github.com/Diksha-3905/driver-drowsiness-detection)
+![Stars](https://img.shields.io/github/stars/Diksha-3905/driver-drowsiness-detection?style=for-the-badge&color=7c3aed)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔬 CV Experiments
+> *Computer Vision Research Lab*
+
+A curated collection of CV projects built on **OpenCV, YOLOv8, TensorFlow & Python** — covering object detection, image segmentation, and face recognition.
+
+**Stack:** `YOLOv8` · `TensorFlow` · `OpenCV` · `Python` · `Jupyter`
+
+[![Repo](https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=C084FC)](https://github.com/Diksha-3905/cv-experiments)
+![Stars](https://img.shields.io/github/stars/Diksha-3905/cv-experiments?style=for-the-badge&color=7c3aed)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center" valign="top">
+
+### 🤖 eduAutoML *(In Progress)*
+> *Making AI accessible to every student*
+
+An **open-source AutoML library** designed specifically for students — simplifying model selection, hyperparameter tuning, and pipeline automation. The goal: zero-barrier entry into machine learning.
+
+**Stack:** `Python` · `Scikit-learn` · `PyTorch` · `AutoML` · `Open Source`
+
+[![Coming Soon](https://img.shields.io/badge/🚧_In_Progress-Stay_Tuned-C084FC?style=for-the-badge)](https://github.com/Diksha-3905)
+
+</td>
+</tr>
 </table>
 
----
+</div>
 
-<div align="center">
+---
 
 ## 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Diksha-3905&bg_color=0D1117&color=A78BFA&line=7c3aed&point=ffffff&area=true&hide_border=true" width="95%" />
-
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Diksha-3905&bg_color=0D1117&color=C084FC&line=7c3aed&point=ffffff&area=true&area_color=2d1b69&hide_border=true" width="95%" />
 </div>
 
 ---
 
+## 🏅 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Diksha-3905&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=6" />
+</div>
+
+---
+
+## 💌 Let's Connect
+
 <div align="center">
 
-## 💡 Dev Philosophy
-
-> *"I don't just write code — I craft experiences. Every line is intentional, every feature purposeful."*
+*I'm open to research collaborations, internships, and impactful projects in AI/ML.*
 
 <br/>
 
-| 🎯 Problem Solver | 🤝 Team Player | 🔄 Continuous Learner | 💡 Creative Thinker |
-|:---:|:---:|:---:|:---:|
-| Turning complex problems into elegant solutions | Thriving in collaborative environments | Always upskilling & staying current | Bringing fresh perspectives to every project |
+[![Email](https://img.shields.io/badge/waghdiksha935@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waghdiksha935@gmail.com)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://preview--diksha-sparkle-folio.lovable.app/)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/diksha-wagh)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Diksha-3905)
+
+<br/><br/>
+
+**💼 Seeking:** AI/ML Internships · Research Roles · Open Source Collaboration · Hackathon Teams
+
+<br/>
+
+> *"I don't just train models — I build systems that matter."* ✨
 
 </div>
 
 ---
 
+<!-- Snake Animation -->
 <div align="center">
-
-## 🌐 Let's Connect & Collaborate
-
-<a href="https://linkedin.com/in/diksha" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:diksha@email.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://twitter.com/diksha" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://diksha.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<br/><br/>
-
-### 💼 Open to Opportunities
-
-<img src="https://img.shields.io/badge/🔍%20Actively%20Looking-Full%20Stack%20%7C%20Frontend%20%7C%20Backend%20Roles-A78BFA?style=for-the-badge" />
-
-<br/><br/>
-
-**📬 Reach out for:** Collaborations · Freelance Projects · Job Opportunities · Open Source Contributions
-
-</div>
-
----
-
-<div align="center">
-
-<!-- Snake contribution animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Diksha-3905/Diksha-3905/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Diksha-3905/Diksha-3905/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Diksha-3905/Diksha-3905/output/github-snake.svg" />
 </picture>
+</div>
 
-<br/>
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,40:2d1b69,80:1a0533,100:0a0a0a&height=130&section=footer" />
 
-<!-- Footer wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
-
-*⭐ If you find my work helpful, consider starring my repos — it means the world!*
-
+<div align="center">
+  <sub>⭐ If my work inspires you — a star goes a long way! Thank you for visiting.</sub>
 </div>
